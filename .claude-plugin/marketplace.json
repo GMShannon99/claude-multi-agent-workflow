@@ -1,5 +1,9 @@
 {
   "name": "code-quality-workflow-marketplace",
+  "description": "Marketplace hosting the code-quality-workflow multi-agent plugin.",
+  "owner": {
+    "name": "gmsha"
+  },
   "plugins": [
     {
       "name": "code-quality-workflow",

@@ -4,16 +4,5 @@
   "description": "A multi-agent workflow plugin for reviewing and fixing code issues.",
   "author": {
     "name": "gmsha"
-  },
-  "agents": [
-    "./agents/code-reviewer.md",
-    "./agents/code-fixer.md"
-  ],
-  "commands": [
-    "./commands/review-and-fix.md"
-  ],
-  "skills": [
-    "./skills/code-formatter"
-  ],
-  "hooks": "./hooks/hooks.json"
+  }
 }

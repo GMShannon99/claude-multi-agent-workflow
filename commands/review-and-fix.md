@@ -1,3 +1,7 @@
+---
+description: Run the multi-agent code-reviewer/code-fixer workflow against the course-api codebase.
+---
+
 Run a multi-agent code quality workflow on the course-api codebase using the following orchestration steps:
 
 1. **Parallel Analysis Phase:** 
